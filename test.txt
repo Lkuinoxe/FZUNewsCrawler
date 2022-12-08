@@ -1,0 +1,749 @@
+﻿<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="address=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+<title>林键副校长走访中国移动福州分公司-福州大学新闻网</title><META Name="keywords" Content="福州大学新闻网,走访,移动,中国,福州,副校长,林键,公司" />
+<META Name="description" Content="融媒中心讯/11月22日上午，林键副校长在网络安全与信息化办公室负责人陪同下走访中国移动福州分公司并座谈交流，中国移动福州分公司总经理袁晓锋、副总经理郑荣、副总经理戴涤非、政企部经理张文强、闽侯分公司副经理赵永航参加。会上，林键副校长中对中国移动福州分公司长期以来给予我校建设发展的关心和支持表示感谢，并代表学校表达了与中国移动共同探索更多合作点的意愿。双方就人才培养、就业招聘、校企合作方面进行深入交..." />
+
+<!-- Set render engine for 360 browser -->
+<meta name="renderer" content="webkit">
+
+<link rel="shortcut icon" href="#" />
+<link rel="stylesheet" href="../../css/a_animate.css">
+<link rel="stylesheet" href="../../css/a_style.css">
+<script src="../../js/a_jquery.js"></script>
+<!--<![endif]-->
+<!-- Compatible files -->
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="../../css/a_ie8.css">
+<script src="../../js/a_ijr.js"></script>
+<div style=" text-align:center; background:#f00; height:50px;"></div>
+<div style=" padding:100px 0; position:relative">
+<p class="browsehappy" style=" text-align:center; position:relative; z-index:1000; font-size:24px; color:#000000; margin-bottom:15px">您的浏览器版本过低，为了保证更好的使用体验，请升级您的浏览器</p>
+<p class="browsehappy" style=" text-align:center; position:relative; z-index:1000; font-size:18px; color:#9B9B9B">（ IE 浏览器需要 IE9 及 IE9 以上版本 ）</p>
+</div>
+<div style=" text-align:center; background:#f00; height:50px;"></div>
+<style>
+.index_miso{ display:none;}
+</style>
+<![endif]-->
+
+
+<style>
+
+video{margin:0 auto;width:100%;height:auto;}
+</style>
+
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323044541a15 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1011,'/content.jsp',26944,1779559075)</script>
+</head>
+
+<body>
+<section class="index_miso">
+<!--============================头部 开始=============================-->
+    
+<section class="top top_miso">
+    <div class="top01">
+        <div class="w1200 clearfix">
+            <div class="left fl"><p><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>欢迎访问-福州大学新闻网</p></p></div>
+            <div class="right fr">
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><UL class="list_box1 clearfix">
+    <LI><a href="https://www.fzu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1779559075, 75427)">学校主页</a></li>
+</UL>
+              
+                
+                <div class="wailian fl" style="display:none">
+                    <ul class="clearfix">
+                        <li> 
+                            <a>
+                                <h5>常用工具<svg t="1633606932577" class="icon" viewbox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2567" width="32" height="32"><path d="M142.805333 265.173333A58.666667 58.666667 0 1 0 59.861333 348.16l410.666667 410.666667a58.666667 58.666667 0 0 0 82.944 0l410.666667-410.666667a58.666667 58.666667 0 1 0-82.944-82.986667L512 634.368 142.805333 265.173333z" p-id="2568"></path></svg></h5>
+                            </a>
+                            <div class="sub">
+                                <div class="box">
+
+
+
+                                   
+                                </div>
+                            </div>              
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="search_btn fr btn" name="tss">
+                    <img class="top_search_white" src="../../images/top_search.png" alt="">搜 索
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="top02"> 
+        <div class="w1200 clearfix">
+            <div class="logo fl">
+
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../index.htm" title="新闻网（新）"> <img src="../../images/logo.png" alt=""></a>
+
+</div>
+            <div class="nav fr">
+                <div class="box_table">
+                    <div class="box_table_cell">
+<ul class="clearfix">
+        <li class="on"><a href="../../fdyw.htm" title="福大要闻">福大要闻</a></li>
+        <li><a href="../../zhxw.htm" title="综合新闻">综合新闻</a></li>
+        <li><a href="../../yxfd.htm" title="影像福大">影像福大</a></li>
+        <li><a href="../../mtfd.htm" title="媒体福大">媒体福大</a></li>
+        <li><a href="../../xydt.htm" title="学院动态">学院动态</a></li>
+        <li><a href="../../fdrw.htm" title="福大人物">福大人物</a></li>
+        <li><a href="../../xygc.htm" title="校园观察">校园观察</a></li>
+        <li><a href="../../ztwy.htm" title="专题网页">专题网页</a></li>
+  </ul>
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="search-dialog-box">
+    <div class="search-bg"></div>
+    <div class="bubbles-bg">
+                <div class="bubble bubble1">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble2">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble3">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble4">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble5">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble6">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble7">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble8">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble9">
+            <div class="circle"></div>
+        </div>
+                <div class="bubble bubble10">
+            <div class="circle"></div>
+        </div>
+            </div>
+    <div class="search-dialog">
+        <div class="search-tit">
+            <div class="wrap-inner">
+                <p>搜索</p>
+                <p>您的关键词</p>
+            </div>
+        </div>
+        <div class="search-inner">
+            <div class="wrap-inner">
+               
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1033446').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1033446").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1033446").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1033446").value = base64.encode(document.getElementById("lucenenewssearchkey1033446").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1033446"));
+        return true;
+    } 
+</script>
+<form action="../../ssjg_list.jsp?wbtreeid=1011" method="post" id="au5a" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey1033446" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1033446" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1033446" name="searchScope" value="0">
+
+<div class="search-input f-cb clearfix">
+		<input type="text" placeholder="请输入您想查找的信息！" autocomplete="off" name="showkeycode" id="showkeycode1033446">
+		<input type="submit" value="" style="cursor: hand">
+		<a href="javascript:;" class="clear-btn"></a>
+	</div>
+
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+        
+            </div>
+        </div>
+    </div>
+    <a href="javascript:;" class="pub-close">
+        <span class="bg"></span>
+        <i></i>
+    </a>
+</div>
+
+<!--wap header-->
+<section class="m_header_box">
+    <header id="m_header">
+        <div id="logo">
+            <div class="box_table">
+                <div class="box_table_cell">
+
+    <a href="../../index.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1779559075, 63862)" target="_blank"> <img src="../../images/footer_logo.png" alt=""></a>
+
+                     
+                </div>
+            </div>
+        </div>
+        <div id="nav_btn_box">
+            <div class="box_table">
+                <div class="box_table_cell">
+                    <aside id="nav_btn">
+                        <div class="point" name="1" id="mbtn"> <span class="navbtn"></span> </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </header>
+</section>
+
+<nav id="m_nav">
+<script type="text/javascript">
+    function _nl_ys_check1(){
+        
+        var keyword = document.getElementById('showkeycode1033447').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1033447").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1033447").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1033447").value = base64.encode(document.getElementById("lucenenewssearchkey1033447").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1033447"));
+        return true;
+    } 
+</script>
+<form action="../../ssjg_list.jsp?wbtreeid=1011" method="post" id="au7a" name="au7a" onsubmit="return _nl_ys_check1()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey1033447" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1033447" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1033447" name="searchScope" value="0">
+
+
+
+  <div class="tc_search">
+        <div class="header-search">
+            
+            <input type="text" class="focus_js" placeholder="" autocomplete="off" name="showkeycode" id="showkeycode1033447">
+            <button type="submit" class="btn_blue fl tc_close" value="" style="cursor: hand"></button>
+        </div>
+    </div>
+
+
+
+</form>
+
+
+  
+<ul class="m_nav_list">
+               <li class="title">
+            <a class="a" href="../../fdyw.htm" title="福大要闻"><h3>福大要闻</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../zhxw.htm" title="综合新闻"><h3>综合新闻</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../yxfd.htm" title="影像福大"><h3>影像福大</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../mtfd.htm" title="媒体福大"><h3>媒体福大</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../xydt.htm" title="学院动态"><h3>学院动态</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../fdrw.htm" title="福大人物"><h3>福大人物</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../xygc.htm" title="校园观察"><h3>校园观察</h3></a>
+        </li>
+
+
+
+        <li class="title">
+            <a class="a" href="../../ztwy.htm" title="专题网页"><h3>专题网页</h3></a>
+        </li>
+
+
+
+    </ul>
+ 
+</nav>
+<section class="nav_mask"></section>
+
+
+<!--============================头部 结束=============================-->
+
+
+<!--============================主体 开始=============================-->
+
+<section class="n_banner">
+
+
+
+
+    
+
+</section>
+
+<section id="nav_slide">
+    <div class="n_title"> 
+        <a id="bnt_back" href="javascript:history.back(-1);">
+            <img src="../../images/icon_bnt_back2.png" alt="" />
+        </a>
+        <h1 class="margin_auto_1">
+
+
+
+
+福大要闻</h1>
+        <div id="bnt_sub_nav">
+            <img src="../../images/bnt_sub_nav2.png" alt="" />
+        </div>
+    </div>
+    <div id="sub_nav_content">
+<ul class="am-list admin-sidebar-list" id="collapase-nav-1">
+            <li class="am-panel on">
+                <a href="../../fdyw.htm" title="福大要闻">福大要闻</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../zhxw.htm" title="综合新闻">综合新闻</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../yxfd.htm" title="影像福大">影像福大</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../mtfd.htm" title="媒体福大">媒体福大</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../xydt.htm" title="学院动态">学院动态</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../fdrw.htm" title="福大人物">福大人物</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../xygc.htm" title="校园观察">校园观察</a>
+            </li>
+      
+            <li class="am-panel on">
+                <a href="../../ztwy.htm" title="专题网页">专题网页</a>
+            </li>
+      
+        </ul>
+     
+    </div>
+</section>
+
+<section class="mianbaoxie">
+    <div class="w1200">
+        <h2>
+
+
+
+福大要闻</h2>
+        
+  <div class="mianbao">
+    您的位置: 
+                        <a href="../../index.htm">首页</a>
+                >
+                <a href="../../fdyw.htm">福大要闻</a>
+                >
+                正文
+</div>
+
+
+    
+        <div class="clear"></div>
+    </div>
+</section>
+
+<section class="n_container">
+    <div class="w1200">
+        <div class="n_left fl">
+            <div class="box">
+                <h3><img src="../../images/n_left_ico1.png" alt="">最新更新</h3>
+                
+<script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script> <ul>
+                    <li>
+                    	<a href="26984.htm" target="_blank" title="省委常委、宣传部部长张彦一行来校调研"><h5 class="overfloat-dot-2">省委常委、宣传部部长张彦一行来校调研</h5></a>
+                    </li>
+                    <li>
+                    	<a href="../1015/26973.htm" target="_blank" title="人文学院举行2023届考研冲刺慰问活动"><h5 class="overfloat-dot-2">人文学院举行2023届考研冲刺慰问活动</h5></a>
+                    </li>
+                    <li>
+                    	<a href="../1017/26972.htm" target="_blank" title="《反有组织犯罪法》亮点解读"><h5 class="overfloat-dot-2">《反有组织犯罪法》亮点解读</h5></a>
+                    </li>
+                    <li>
+                    	<a href="../1014/26982.htm" target="_blank" title="【中国网】推动教育数字转型，打造高校“一朵云”"><h5 class="overfloat-dot-2">【中国网】推动教育数字转型，打造高校“一朵云”</h5></a>
+                    </li>
+                    <li>
+                    	<a href="../1015/26971.htm" target="_blank" title="物信学院校友魏腾雄再次向“夕阳红”基金捐赠10万元"><h5 class="overfloat-dot-2">物信学院校友魏腾雄再次向“夕阳红”基金捐赠10万元</h5></a>
+                    </li>
+                </ul><script>_showDynClickBatch(['dynclicks_u14_26984','dynclicks_u14_26973','dynclicks_u14_26972','dynclicks_u14_26982','dynclicks_u14_26971'],[26984,26973,26972,26982,26971],"wbnews", 1779559075)</script>
+
+
+             
+            </div>
+            
+            <div class="box">
+                <h3><img src="../../images/n_left_ico2.png" alt="">热文排行</h3>
+                
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u15" class="winstyle1034846" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table class="winstyle1034846" width="100%" cellspacing="0" cellpadding="0" id="hotnews_content_table_u15" style="display: none;">
+</table>
+<script type="text/javascript">
+function getHotNewsTitleu15()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u15");
+    var contenttable = jQuery("#hotnews_content_table_u15");
+    _this.t_body = jQuery("#hotnews_content_table_u15");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle1034846';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1779559075',treeid:'1011',viewid:'1034846',mode:'10',
+            locale:'zh_CN',
+            pageUrl:'/info/1011/26944.htm',uniqueId:'u15',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/hotdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+      var newsidarray = new Array();
+      var newsidspanarray = new Array();
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  '';
+                 var isshowvideo = false;
+                 var showvideoalign = 'left';
+                 var isshowattach = false;
+                 var showattachalign = 'left';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span >•</span>");
+                     leaderspan.addClass("");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c1034846' target=_blank  title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;<span id='_wzdjcs_"+notice_val.newsid+"' name='_wzdjcs_"+notice_val.newsid+"'></span>"+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        newsidarray.push(notice_val.newsid);
+                        newsidspanarray.push("_wzdjcs_"+notice_val.newsid);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.html((new Base64()).decode(notice_val.timestr));
+                         
+                         time_span.addClass("timestyle1034846");
+                         if(true)
+                         {
+                             var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                             time_span.append(endimgspan);
+                         }  
+                         title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle1034846");
+                        
+                        time_td.html((new Base64()).decode(notice_val.timestr));
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+                            var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                            time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+                 _showDynClickBatch(newsidspanarray,newsidarray,'wbnews','1779559075');
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu15 = new getHotNewsTitleu15();
+    showcontentu15._getResult();
+    showcontentu15.show();
+});
+</script>
+          
+            </div>
+        </div>
+        <div class="n_right fr">
+            <section class="n_news_detail">
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link rel="stylesheet" Content-type="text/css" href="/system/resource/style/component/news/content/format501.css"><form name="_newscontent_fromname">
+ <div class="ar_article_box">
+                    <div class="nav01">
+                        <h3>林键副校长走访中国移动福州分公司</h3>
+            <h4 style="height: 1.6rem;line-height: 1.6rem;margin: 0.9rem 0;font-size: 1.2rem;color: #101010;margin-bottom: 1.4rem;"></h4>
+                        <h6>
+                            <span>发布日期:  2022-11-25</span>
+                            <span>作者： 网络安全与信息化办公室</span>
+                            <span>阅读： <script>_showDynClicks("wbnews", 1779559075, 26944)</script></span>
+                 
+                        </h6>
+                    </div>
+
+    
+    <div id="vsb_content_501" class="ar_article"><div class="v_news_content">
+<p><strong>融媒中心讯/</strong>11月22日上午，林键副校长在网络安全与信息化办公室负责人陪同下走访中国移动福州分公司并座谈交流，中国移动福州分公司总经理袁晓锋、副总经理郑荣、副总经理戴涤非、政企部经理张文强、闽侯分公司副经理赵永航参加。</p> 
+<p>会上，林键副校长对中国移动福州分公司长期以来给予我校建设发展的关心和支持表示感谢，并代表学校表达了与中国移动共同探索更多合作事项的意愿。双方就人才培养、就业招聘、校企合作方面进行深入交流，并在加快“节点云”建设项目、“5G+智慧教育”应用试点项目、5G双域专网等方面的落地实施达成共识。</p> 
+<p>通过此次交流，双方明确将进一步发挥各自优势，加大沟通衔接力度，尽快促进项目落地见效，支持福州大学新基建，助力福州大学“双一流”建设，提升校园信息化水平。（林伟伟）</p> 
+<p class="vsbcontent_img"><img src="/__local/3/47/44/A98D5554B0DFB712838D4AB4099_076D9E52_1A8BA.jpeg" width="600" word_img="" vsbhref="vurl" vurl="/_vsl/34744A98D5554B0DFB712838D4AB4099/076D9E52/1A8BA" vheight="" vwidth="600" orisrc="/__local/3/47/44/A98D5554B0DFB712838D4AB4099_076D9E52_1A8BA.jpeg" class="img_vsb_content" style="-webkit-touch-callout: none; -webkit-user-select: none;"></p> 
+<p style="text-align: center;">林键副校长走访中国移动福州分公司</p>
+</div></div><div id="div_vote_id"></div>
+    
+ <section id="ar_fot">
+                        <h1 class="highlight prev"><a href="26961.htm"><span>上一篇：</span>【学习二十大精神】福州大学召开校领导班子成员学习贯彻党的二十大精神专题研讨会和专题学习会</a></h1>
+                         <h1 class="highlight next"><a href="26933.htm"><span>下一篇：</span>我校承办的全国“高校知识产权信息服务中心联盟年会暨学术研讨会”顺利召开</a></h1>
+                        <div class="clear"></div>
+ <div id="share-2">分享到：</div>
+ </section>
+       
+ <div class="clear"></div>
+  
+</div>
+</form>
+
+             
+            </section>
+        </div>
+        <div class="clear"></div>
+    </div>
+</section>
+
+<script src="../../js/jquery.share.min.js"></script>
+<script>
+$('#share-2').share({sites: ['weibo', 'wechat', 'qq', "qzone"]});
+</script>
+<!--============================主体 结束=============================-->
+
+
+<!--============================底部 开始=============================-->
+
+<footer>
+    <div class="w1200">
+        <div class="left">
+    
+<img src="../../images/footer_logo.png" alt="">
+
+            
+        </div>
+        
+        <div class="right">
+
+<p><img src="/__local/B/62/55/10F0677E72A0B0DCCF5F798C6DB_865A6721_1F7.png?e=.png" vsbhref="vurl" vurl="/_vsl/B625510F0677E72A0B0DCCF5F798C6DB/865A6721/1F7?e=.png" vheight="" vwidth="" orisrc="/__local/B/62/55/10F0677E72A0B0DCCF5F798C6DB_865A6721_1F7.png" class="img_vsb_content">地址：福建省福州市福州地区大学新区学园路2号山北行政楼四楼</p> 
+<p><img src="/__local/B/49/B4/0B2EC59649CA13BAC85941A8B12_D497950A_19B.png?e=.png" vsbhref="vurl" vurl="/_vsl/B49B40B2EC59649CA13BAC85941A8B12/D497950A/19B?e=.png" vheight="" vwidth="" orisrc="/__local/B/49/B4/0B2EC59649CA13BAC85941A8B12_D497950A_19B.png" class="img_vsb_content">邮编：350108 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/__local/3/76/72/9D5EF45533E69056CF06F1A0115_9201CE3A_198.png?e=.png" vsbhref="vurl" vurl="/_vsl/376729D5EF45533E69056CF06F1A0115/9201CE3A/198?e=.png" vheight="" vwidth="" orisrc="/__local/3/76/72/9D5EF45533E69056CF06F1A0115_9201CE3A_198.png" class="img_vsb_content">主办单位：福州大学党委宣传部 &nbsp; &nbsp; &nbsp;新闻投稿：xwzx@fzu.edu.cn</p>
+
+            
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权信息 &nbsp;Copyright &nbsp;2014 &nbsp;福州大学 All Rights Reserveddu.cn</p>
+            
+        </div>
+    </div>
+</footer>
+
+<div class="hide" id="gotop">
+    <svg t="1620981491725" class="icon" viewbox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="14041" width="16" height="16"><path d="M825.568 555.328l-287.392-289.28C531.808 259.648 523.488 256.576 515.2 256.64 514.08 256.544 513.12 256 512 256c-4.672 0-9.024 1.088-13.024 2.88-4.032 1.536-7.872 3.872-11.136 7.136l-259.328 258.88c-12.512 12.48-12.544 32.736-0.032 45.248 6.24 6.272 14.432 9.408 22.656 9.408 8.192 0 16.352-3.136 22.624-9.344L480 364.288 480 928c0 17.696 14.336 32 32 32s32-14.304 32-32L544 362.72l236.192 237.728c6.24 6.272 14.496 9.44 22.688 9.44s16.32-3.104 22.56-9.312C838.016 588.128 838.048 567.84 825.568 555.328zM864 192 160 192C142.336 192 128 177.664 128 160s14.336-32 32-32l704 0c17.696 0 32 14.336 32 32S881.696 192 864 192z" p-id="14042"></path></svg>
+</div>
+<script>
+$(window).scroll(function() {
+    if ($(this).scrollTop()>100){
+        $("#gotop").removeClass("hide");
+    }else{
+        $("#gotop").addClass("hide");
+    };
+});
+$('#gotop').click(function () {
+    $('html,body').animate({
+        scrollTop : '0px'
+    }, 800);
+}); 
+</script>
+
+<!--============================底部 结束=============================-->
+
+
+<!--============================动画 开始=============================-->
+
+<script src="../../js/a_style.js"></script>
+<script src="../../js/a_animate.js"></script>
+
+<!--============================动画 结束=============================-->
+</section>
+</body>
+</html>
